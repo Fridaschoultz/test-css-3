@@ -1,0 +1,35 @@
+*{
+    font-size: 36px;
+}
+
+div{
+    display:block;
+    background-color: green;
+    height: 200px;
+    width: 500px;
+    margin:20px;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.div1{
+    display:inline;
+    background-color: red;
+    height: 200px;
+    width: 500px;
+    margin:20px;
+    border: 2px solid black;
+}
+
+.div2{
+        display:inline-block;
+        background-color:royalblue;
+        height: 200px;
+        width: 500px;
+        margin:20px;
+        border: 2px solid black;
+        text-align: center;   
+}
+
+
+
